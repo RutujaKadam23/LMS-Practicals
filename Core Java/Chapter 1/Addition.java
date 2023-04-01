@@ -1,5 +1,4 @@
-
-/*wap to print addition of two numbers*/
+//wap to print addition of two numbers
 
 class Addition
 {
